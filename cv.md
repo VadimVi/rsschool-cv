@@ -2,7 +2,7 @@
 #My Contact Info
 *Adress: Selickogo Minsk, Belarus
 *E-mail: nasevich_vadim@mail.ru
-*GitHub: VadimVi
+*GitHub: [VadimVi](https://github.com/VadimVi)
 *Discord: VadimVi
 *Phone: +375 336556886
 #Summary
